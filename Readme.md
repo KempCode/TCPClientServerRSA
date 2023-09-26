@@ -36,10 +36,6 @@ To run the server open the Windows command line and cd into the directory of "se
 Now you can encrypted messages from the client to the server and the server will decrypt them!
 
 
-## Contact
-
-Michael Kemp - michaelandrewkemp99@gmail.com
-
 ## Acknowledgments
 
 Initial code was from Dr Napoleon Reyes Ph.D. as part of a University Assignment.
